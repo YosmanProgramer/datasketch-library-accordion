@@ -6,7 +6,7 @@ A component called accordion
 
 # Installation
 
-`npm i yosman-programmer-accordion`
+`npm i datasketch-library-accordion`
 
 Then ...
 
