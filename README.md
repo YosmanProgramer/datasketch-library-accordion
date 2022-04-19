@@ -103,7 +103,7 @@ structure in css
 structure in js
 
 ```
-import { Accordion } from "datasketch-library-accordion/index.js";
+import { Accordion } from "/node_modules/datasketch-library-accordion/index.js"
 
 const accordion = new Accordion()
 ```
